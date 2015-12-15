@@ -118,12 +118,12 @@ import org.zhangmz.ui.paradisaeidae.utilities.RoundedPanel;
  * 			实现权限控制的必要手段
  * 
  * 应用程序生命周期:
- * Launch(发启)---你必须使用这个方法
- * Initialize(初始化)—框架会调用这个可选的方法
- * Startup(启动)—框架会调用这个方法
- * Ready(就绪)----框架会调用这个可选的方法
- * Exit(退出)----你必须使用这个方法
- * Shutdown(关闭)----框架会调用这个可选的方法
+ * Launch(发启)       你必须使用这个方法
+ * Initialize(初始化)  框架会调用这个可选的方法
+ * Startup(启动)      框架会调用这个方法
+ * Ready(就绪)        框架会调用这个可选的方法
+ * Exit(退出)         你必须使用这个方法
+ * Shutdown(关闭)     框架会调用这个可选的方法
  * 
  */
 public class Paradisaeidae extends SingleFrameApplication  {
