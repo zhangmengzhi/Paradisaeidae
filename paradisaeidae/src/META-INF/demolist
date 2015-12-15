@@ -1,0 +1,5 @@
+org.zhangmz.ui.paradisaeidae.demos.frame.FrameDemo
+org.zhangmz.ui.paradisaeidae.demos.dialog.DialogDemo
+org.zhangmz.ui.paradisaeidae.demos.window.WindowDemo
+org.zhangmz.ui.paradisaeidae.demos.internalframe.InternalFrameDemo
+org.zhangmz.ui.paradisaeidae.demos.tabbedpane.TabbedPaneDemo

@@ -1,0 +1,24 @@
+org.zhangmz.ui.paradisaeidae.demos.frame.FrameDemo
+org.zhangmz.ui.paradisaeidae.demos.dialog.DialogDemo
+org.zhangmz.ui.paradisaeidae.demos.window.WindowDemo
+org.zhangmz.ui.paradisaeidae.demos.internalframe.InternalFrameDemo
+org.zhangmz.ui.paradisaeidae.demos.tabbedpane.TabbedPaneDemo
+org.zhangmz.ui.paradisaeidae.demos.scrollpane.ScrollPaneDemo
+org.zhangmz.ui.paradisaeidae.demos.splitpane.SplitPaneDemo
+org.zhangmz.ui.paradisaeidae.demos.gridbaglayout.GridBagLayoutDemo
+org.zhangmz.ui.paradisaeidae.demos.table.TableDemo
+org.zhangmz.ui.paradisaeidae.demos.tree.TreeDemo
+org.zhangmz.ui.paradisaeidae.demos.list.ListDemo
+org.zhangmz.ui.paradisaeidae.demos.togglebutton.ToggleButtonDemo
+org.zhangmz.ui.paradisaeidae.demos.button.ButtonDemo
+org.zhangmz.ui.paradisaeidae.demos.combobox.ComboBoxDemo
+org.zhangmz.ui.paradisaeidae.demos.progressbar.ProgressBarDemo
+org.zhangmz.ui.paradisaeidae.demos.slider.SliderDemo
+# org.zhangmz.ui.paradisaeidae.demos.spinner.SpinnerDemo
+org.zhangmz.ui.paradisaeidae.demos.textfield.TextFieldDemo
+org.zhangmz.ui.paradisaeidae.demos.editorpane.EditorPaneDemo
+org.zhangmz.ui.paradisaeidae.demos.filechooser.FileChooserDemo
+org.zhangmz.ui.paradisaeidae.demos.colorchooser.ColorChooserDemo
+org.zhangmz.ui.paradisaeidae.demos.optionpane.OptionPaneDemo
+# org.zhangmz.ui.paradisaeidae.demos.tooltip.ToolTipDemo
+org.zhangmz.ui.paradisaeidae.demos.pushclient.PushClientDemo
